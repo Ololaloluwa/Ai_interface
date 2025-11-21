@@ -1,5 +1,5 @@
-﻿Name: Adedoyin David
-Matric Number: 23CG034019
+﻿Name:Olojede Ololaloluwa
+Matric Number: 23CG034127
 
 Live URL: https://olojede-23cg034127-emotion-detection-web-yk26.onrender.com
 GitHub Repository: https://github.com/Ololaloluwa/Ai_interface
