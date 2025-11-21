@@ -199,7 +199,7 @@ def main():
     print("\n" + "=" * 70)
     print("  NLP Question & Answering System")
     print("  Using Google Gemini LLM with Text Preprocessing")
-    print("  Student: Adedoyin Dave4 (23CG034019)")
+    print("  Student: Olojede Ololaloluwa(23CG034127")
     print("=" * 70)
 
     if not Config.GEMINI_API_KEY:
@@ -224,3 +224,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
