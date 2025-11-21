@@ -1,8 +1,8 @@
 ﻿#!/usr/bin/env python3
 """
 LLM Question and Answering CLI Application
-Name: Adedoyin Dave4
-Matric No: 23CG034019
+Name: Olojede Ololaloluwa
+Matric No: 23CG034127
 """
 
 import os
